@@ -10,3 +10,7 @@
   Os desenvolvedores podem contribuir e bifurcar o repositório no [GitHub](https://github.com/compodoc/compodoc).
   Não se esqueça de ler o [guia de contribuição](https://github.com/compodoc/compodoc/blob/master/CONTRIBUTING.md).
   
+  ## Para maiores informações visite: [compodoc.app](https://compodoc.app/)
+  
+  ![Compodoc](https://i.imgur.com/AVFYbcy.png)
+  
